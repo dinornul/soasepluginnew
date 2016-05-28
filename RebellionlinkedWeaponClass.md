@@ -1,0 +1,22 @@
+## References
+  * [ResearchFloatModifierType](RebellionResearchFloatModifierType.md)
+
+## Values
+  * [AUTOCANNON](RebellionAUTOCANNON.md)
+  * [BEAM](RebellionBEAM.md)
+  * [CAPITALABILITY](RebellionCAPITALABILITY.md)
+  * [CHAOSBOLT](RebellionCHAOSBOLT.md)
+  * [DART](RebellionDART.md)
+  * [FLASHBEAM](RebellionFLASHBEAM.md)
+  * [GAUSS](RebellionGAUSS.md)
+  * [ION](RebellionION.md)
+  * [Invalid](RebellionInvalid.md)
+  * [LASERPSI](RebellionLASERPSI.md)
+  * [LASERTECH](RebellionLASERTECH.md)
+  * [MISSILE](RebellionMISSILE.md)
+  * [PHASEMISSILE](RebellionPHASEMISSILE.md)
+  * [PLANETBOMBARDMENT](RebellionPLANETBOMBARDMENT.md)
+  * [PLASMA](RebellionPLASMA.md)
+  * [PULSEGUN](RebellionPULSEGUN.md)
+  * [SPIRITBLADE](RebellionSPIRITBLADE.md)
+  * [WAVE](RebellionWAVE.md)
