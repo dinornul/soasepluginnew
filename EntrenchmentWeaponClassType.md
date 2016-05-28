@@ -1,0 +1,21 @@
+## References
+  * [Weapon](EntrenchmentWeapon.md)
+
+## Values
+  * [CAPITALABILITY](EntrenchmentCAPITALABILITY.md)
+  * [PLANETBOMBARDMENT](EntrenchmentPLANETBOMBARDMENT.md)
+  * [ION](EntrenchmentION.md)
+  * [DART](EntrenchmentDART.md)
+  * [CHAOSBOLT](EntrenchmentCHAOSBOLT.md)
+  * [SPIRITBLADE](EntrenchmentSPIRITBLADE.md)
+  * [PULSEGUN](EntrenchmentPULSEGUN.md)
+  * [MISSILE](EntrenchmentMISSILE.md)
+  * [AUTOCANNON](EntrenchmentAUTOCANNON.md)
+  * [LASERTECH](EntrenchmentLASERTECH.md)
+  * [WAVE](EntrenchmentWAVE.md)
+  * [BEAM](EntrenchmentBEAM.md)
+  * [PLASMA](EntrenchmentPLASMA.md)
+  * [LASERPSI](EntrenchmentLASERPSI.md)
+  * [FLASHBEAM](EntrenchmentFLASHBEAM.md)
+  * [PHASEMISSILE](EntrenchmentPHASEMISSILE.md)
+  * [GAUSS](EntrenchmentGAUSS.md)

@@ -1,0 +1,22 @@
+## References
+  * [Ability](EntrenchmentAbility.md)
+  * [Buff](EntrenchmentBuff.md)
+  * [CapitalShip](EntrenchmentCapitalShip.md)
+  * [Frigate](EntrenchmentFrigate.md)
+  * [MeshNameInfo](EntrenchmentMeshNameInfo.md)
+  * [PlanetModuleHangarDefense](EntrenchmentPlanetModuleHangarDefense.md)
+  * [PlanetModuleRefinery](EntrenchmentPlanetModuleRefinery.md)
+  * [PlanetModuleShipFactory](EntrenchmentPlanetModuleShipFactory.md)
+  * [PlanetModuleStandard](EntrenchmentPlanetModuleStandard.md)
+  * [PlanetModuleTradePort](EntrenchmentPlanetModuleTradePort.md)
+  * [PlanetModuleWeaponDefense](EntrenchmentPlanetModuleWeaponDefense.md)
+  * [ResearchSubject](EntrenchmentResearchSubject.md)
+  * [Squad](EntrenchmentSquad.md)
+  * [StarBaseUpgrade](EntrenchmentStarBaseUpgrade.md)
+  * [Weapon](EntrenchmentWeapon.md)
+
+**[researchPrerequisites](EntrenchmentresearchPrerequisites.md)
+  * NumResearchPrerequisites: [Iteration](Iteration.md)
+    * [ResearchPrerequisite](EntrenchmentResearchPrerequisite.md)
+      * Subject: [Entity](Entity.md)
+      * Level: [Integer](Integer.md)**
