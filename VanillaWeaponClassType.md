@@ -1,0 +1,21 @@
+## References
+  * [Weapon](VanillaWeapon.md)
+
+## Values
+  * [CAPITALABILITY](VanillaCAPITALABILITY.md)
+  * [PLANETBOMBARDMENT](VanillaPLANETBOMBARDMENT.md)
+  * [ION](VanillaION.md)
+  * [DART](VanillaDART.md)
+  * [CHAOSBOLT](VanillaCHAOSBOLT.md)
+  * [SPIRITBLADE](VanillaSPIRITBLADE.md)
+  * [PULSEGUN](VanillaPULSEGUN.md)
+  * [MISSILE](VanillaMISSILE.md)
+  * [AUTOCANNON](VanillaAUTOCANNON.md)
+  * [LASERTECH](VanillaLASERTECH.md)
+  * [WAVE](VanillaWAVE.md)
+  * [BEAM](VanillaBEAM.md)
+  * [PLASMA](VanillaPLASMA.md)
+  * [LASERPSI](VanillaLASERPSI.md)
+  * [FLASHBEAM](VanillaFLASHBEAM.md)
+  * [PHASEMISSILE](VanillaPHASEMISSILE.md)
+  * [GAUSS](VanillaGAUSS.md)
