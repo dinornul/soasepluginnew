@@ -1,0 +1,22 @@
+## References
+  * [CapitalShip](EntrenchmentCapitalShip.md)
+  * [Fighter](EntrenchmentFighter.md)
+  * [Frigate](EntrenchmentFrigate.md)
+  * [PlanetModuleHangarDefense](EntrenchmentPlanetModuleHangarDefense.md)
+  * [PlanetModuleRefinery](EntrenchmentPlanetModuleRefinery.md)
+  * [PlanetModuleShipFactory](EntrenchmentPlanetModuleShipFactory.md)
+  * [PlanetModuleStandard](EntrenchmentPlanetModuleStandard.md)
+  * [PlanetModuleTradePort](EntrenchmentPlanetModuleTradePort.md)
+  * [PlanetModuleWeaponDefense](EntrenchmentPlanetModuleWeaponDefense.md)
+  * [SpaceMine](EntrenchmentSpaceMine.md)
+  * [StarBase](EntrenchmentStarBase.md)
+
+## Values
+  * [Pirate](EntrenchmentPirate.md)
+  * [Module](EntrenchmentModule.md)
+  * [CapitalShip](EntrenchmentCapitalShip.md)
+  * [Heavy](EntrenchmentHeavy.md)
+  * [Light](EntrenchmentLight.md)
+  * [VeryLight](EntrenchmentVeryLight.md)
+  * [Medium](EntrenchmentMedium.md)
+  * [VeryHeavy](EntrenchmentVeryHeavy.md)

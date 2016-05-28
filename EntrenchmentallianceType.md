@@ -1,0 +1,23 @@
+## References
+  * [ResearchBoolModifierType](EntrenchmentResearchBoolModifierType.md)
+
+## Values
+  * [AntimatterPact](EntrenchmentAntimatterPact.md)
+  * [ArmorPact](EntrenchmentArmorPact.md)
+  * [BeamWeaponPact](EntrenchmentBeamWeaponPact.md)
+  * [CulturePact](EntrenchmentCulturePact.md)
+  * [EfficiencyPact](EntrenchmentEfficiencyPact.md)
+  * [EnergyWeaponCooldownPact](EntrenchmentEnergyWeaponCooldownPact.md)
+  * [Invalid](EntrenchmentInvalid.md)
+  * [MarketPact](EntrenchmentMarketPact.md)
+  * [MassReductionPact](EntrenchmentMassReductionPact.md)
+  * [MetalCrystalPact](EntrenchmentMetalCrystalPact.md)
+  * [PhaseJumpPact](EntrenchmentPhaseJumpPact.md)
+  * [PlanetBombingPact](EntrenchmentPlanetBombingPact.md)
+  * [ResearchPact](EntrenchmentResearchPact.md)
+  * [ShieldPact](EntrenchmentShieldPact.md)
+  * [SupplyPact](EntrenchmentSupplyPact.md)
+  * [TacticalSlotsPact](EntrenchmentTacticalSlotsPact.md)
+  * [ThrusterPact](EntrenchmentThrusterPact.md)
+  * [TradeIncomePact](EntrenchmentTradeIncomePact.md)
+  * [WeaponCooldownPact](EntrenchmentWeaponCooldownPact.md)

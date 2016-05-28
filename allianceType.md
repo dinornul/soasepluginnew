@@ -1,0 +1,23 @@
+## References
+  * [ResearchBoolModifierType](ResearchBoolModifierType.md)
+
+## Values
+  * [AntimatterPact](AntimatterPact.md)
+  * [ArmorPact](ArmorPact.md)
+  * [BeamWeaponPact](BeamWeaponPact.md)
+  * [CulturePact](CulturePact.md)
+  * [EfficiencyPact](EfficiencyPact.md)
+  * [EnergyWeaponCooldownPact](EnergyWeaponCooldownPact.md)
+  * [Invalid](Invalid.md)
+  * [MarketPact](MarketPact.md)
+  * [MassReductionPact](MassReductionPact.md)
+  * [MetalCrystalPact](MetalCrystalPact.md)
+  * [PhaseJumpPact](PhaseJumpPact.md)
+  * [PlanetBombingPact](PlanetBombingPact.md)
+  * [ResearchPact](ResearchPact.md)
+  * [ShieldPact](ShieldPact.md)
+  * [SupplyPact](SupplyPact.md)
+  * [TacticalSlotsPact](TacticalSlotsPact.md)
+  * [ThrusterPact](ThrusterPact.md)
+  * [TradeIncomePact](TradeIncomePact.md)
+  * [WeaponCooldownPact](WeaponCooldownPact.md)

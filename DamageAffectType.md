@@ -1,0 +1,7 @@
+## References
+  * [Weapon](Weapon.md)
+
+## Values
+  * [AFFECTS\_ONLY\_HULL](AFFECTS_ONLY_HULL.md)
+  * [AFFECTS\_ONLY\_SHIELDS](AFFECTS_ONLY_SHIELDS.md)
+  * [AFFECTS\_SHIELDS\_AND\_HULL](AFFECTS_SHIELDS_AND_HULL.md)

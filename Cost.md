@@ -1,0 +1,20 @@
+## References
+  * [Ability](Ability.md)
+  * [CapitalShip](CapitalShip.md)
+  * [Frigate](Frigate.md)
+  * [Planet](Planet.md)
+  * [PlanetModuleHangarDefense](PlanetModuleHangarDefense.md)
+  * [PlanetModuleRefinery](PlanetModuleRefinery.md)
+  * [PlanetModuleShipFactory](PlanetModuleShipFactory.md)
+  * [PlanetModuleStandard](PlanetModuleStandard.md)
+  * [PlanetModuleTradePort](PlanetModuleTradePort.md)
+  * [PlanetModuleWeaponDefense](PlanetModuleWeaponDefense.md)
+  * [Quest](Quest.md)
+  * [ResearchSubject](ResearchSubject.md)
+  * [SpaceMine](SpaceMine.md)
+  * [StarBaseUpgrade](StarBaseUpgrade.md)
+
+**[Cost](Cost.md)
+  * credits: [Decimal](Decimal.md)
+  * metal: [Decimal](Decimal.md)
+  * crystal: [Decimal](Decimal.md)**

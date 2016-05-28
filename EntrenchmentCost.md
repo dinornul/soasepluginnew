@@ -1,0 +1,20 @@
+## References
+  * [Ability](EntrenchmentAbility.md)
+  * [CapitalShip](EntrenchmentCapitalShip.md)
+  * [Frigate](EntrenchmentFrigate.md)
+  * [Planet](EntrenchmentPlanet.md)
+  * [PlanetModuleHangarDefense](EntrenchmentPlanetModuleHangarDefense.md)
+  * [PlanetModuleRefinery](EntrenchmentPlanetModuleRefinery.md)
+  * [PlanetModuleShipFactory](EntrenchmentPlanetModuleShipFactory.md)
+  * [PlanetModuleStandard](EntrenchmentPlanetModuleStandard.md)
+  * [PlanetModuleTradePort](EntrenchmentPlanetModuleTradePort.md)
+  * [PlanetModuleWeaponDefense](EntrenchmentPlanetModuleWeaponDefense.md)
+  * [Quest](EntrenchmentQuest.md)
+  * [ResearchSubject](EntrenchmentResearchSubject.md)
+  * [SpaceMine](EntrenchmentSpaceMine.md)
+  * [StarBaseUpgrade](EntrenchmentStarBaseUpgrade.md)
+
+**[Cost](EntrenchmentCost.md)
+  * credits: [Decimal](Decimal.md)
+  * metal: [Decimal](Decimal.md)
+  * crystal: [Decimal](Decimal.md)**

@@ -1,0 +1,1 @@
+Brush: Validates a referenced brush entry exists for the value entered
