@@ -1,0 +1,19 @@
+## References
+  * [MissionAttackPlanet](EntrenchmentMissionAttackPlanet.md)
+  * [MissionBuildMines](EntrenchmentMissionBuildMines.md)
+  * [MissionBuildStarBase](EntrenchmentMissionBuildStarBase.md)
+  * [MissionCaptureResources](EntrenchmentMissionCaptureResources.md)
+  * [MissionColonize](EntrenchmentMissionColonize.md)
+  * [MissionExplore](EntrenchmentMissionExplore.md)
+  * [MissionFosterRelationships](EntrenchmentMissionFosterRelationships.md)
+  * [MissionRaid](EntrenchmentMissionRaid.md)
+
+## Values
+  * [AttackPlanet](EntrenchmentAttackPlanet.md)
+  * [BuildMines](EntrenchmentBuildMines.md)
+  * [BuildStarBase](EntrenchmentBuildStarBase.md)
+  * [CaptureResources](EntrenchmentCaptureResources.md)
+  * [Colonize](EntrenchmentColonize.md)
+  * [Explore](EntrenchmentExplore.md)
+  * [FosterRelationships](EntrenchmentFosterRelationships.md)
+  * [Raid](EntrenchmentRaid.md)

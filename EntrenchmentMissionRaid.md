@@ -1,0 +1,2 @@
+**[MissionRaid](EntrenchmentMissionRaid.md)
+  * [missionType](EntrenchmentmissionType.md): [Enumeration](Enumeration.md)**
