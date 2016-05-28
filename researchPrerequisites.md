@@ -1,0 +1,22 @@
+## References
+  * [Ability](Ability.md)
+  * [Buff](Buff.md)
+  * [CapitalShip](CapitalShip.md)
+  * [Frigate](Frigate.md)
+  * [MeshNameInfo](MeshNameInfo.md)
+  * [PlanetModuleHangarDefense](PlanetModuleHangarDefense.md)
+  * [PlanetModuleRefinery](PlanetModuleRefinery.md)
+  * [PlanetModuleShipFactory](PlanetModuleShipFactory.md)
+  * [PlanetModuleStandard](PlanetModuleStandard.md)
+  * [PlanetModuleTradePort](PlanetModuleTradePort.md)
+  * [PlanetModuleWeaponDefense](PlanetModuleWeaponDefense.md)
+  * [ResearchSubject](ResearchSubject.md)
+  * [Squad](Squad.md)
+  * [StarBaseUpgrade](StarBaseUpgrade.md)
+  * [Weapon](Weapon.md)
+
+**[researchPrerequisites](researchPrerequisites.md)
+  * NumResearchPrerequisites: [Iteration](Iteration.md)
+    * [ResearchPrerequisite](ResearchPrerequisite.md)
+      * Subject: [Entity](Entity.md)
+      * Level: [Integer](Integer.md)**
