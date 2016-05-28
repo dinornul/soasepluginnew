@@ -1,0 +1,23 @@
+## References
+  * [ResearchBoolModifierType](RebellionResearchBoolModifierType.md)
+
+## Values
+  * [AntimatterPact](RebellionAntimatterPact.md)
+  * [ArmorPact](RebellionArmorPact.md)
+  * [BeamWeaponPact](RebellionBeamWeaponPact.md)
+  * [CulturePact](RebellionCulturePact.md)
+  * [EfficiencyPact](RebellionEfficiencyPact.md)
+  * [EnergyWeaponCooldownPact](RebellionEnergyWeaponCooldownPact.md)
+  * [Invalid](RebellionInvalid.md)
+  * [MarketPact](RebellionMarketPact.md)
+  * [MassReductionPact](RebellionMassReductionPact.md)
+  * [MetalCrystalPact](RebellionMetalCrystalPact.md)
+  * [PhaseJumpPact](RebellionPhaseJumpPact.md)
+  * [PlanetBombingPact](RebellionPlanetBombingPact.md)
+  * [ResearchPact](RebellionResearchPact.md)
+  * [ShieldPact](RebellionShieldPact.md)
+  * [SupplyPact](RebellionSupplyPact.md)
+  * [TacticalSlotsPact](RebellionTacticalSlotsPact.md)
+  * [ThrusterPact](RebellionThrusterPact.md)
+  * [TradeIncomePact](RebellionTradeIncomePact.md)
+  * [WeaponCooldownPact](RebellionWeaponCooldownPact.md)

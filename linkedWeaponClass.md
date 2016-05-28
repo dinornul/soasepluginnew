@@ -1,0 +1,22 @@
+## References
+  * [ResearchFloatModifierType](ResearchFloatModifierType.md)
+
+## Values
+  * [AUTOCANNON](AUTOCANNON.md)
+  * [BEAM](BEAM.md)
+  * [CAPITALABILITY](CAPITALABILITY.md)
+  * [CHAOSBOLT](CHAOSBOLT.md)
+  * [DART](DART.md)
+  * [FLASHBEAM](FLASHBEAM.md)
+  * [GAUSS](GAUSS.md)
+  * [ION](ION.md)
+  * [Invalid](Invalid.md)
+  * [LASERPSI](LASERPSI.md)
+  * [LASERTECH](LASERTECH.md)
+  * [MISSILE](MISSILE.md)
+  * [PHASEMISSILE](PHASEMISSILE.md)
+  * [PLANETBOMBARDMENT](PLANETBOMBARDMENT.md)
+  * [PLASMA](PLASMA.md)
+  * [PULSEGUN](PULSEGUN.md)
+  * [SPIRITBLADE](SPIRITBLADE.md)
+  * [WAVE](WAVE.md)

@@ -1,0 +1,22 @@
+## References
+  * [Ability](RebellionAbility.md)
+  * [CapitalShip](RebellionCapitalShip.md)
+  * [Cosmetic](RebellionCosmetic.md)
+  * [Frigate](RebellionFrigate.md)
+  * [Planet](RebellionPlanet.md)
+  * [PlanetModuleHangarDefense](RebellionPlanetModuleHangarDefense.md)
+  * [PlanetModuleRefinery](RebellionPlanetModuleRefinery.md)
+  * [PlanetModuleShipFactory](RebellionPlanetModuleShipFactory.md)
+  * [PlanetModuleStandard](RebellionPlanetModuleStandard.md)
+  * [PlanetModuleTradePort](RebellionPlanetModuleTradePort.md)
+  * [PlanetModuleWeaponDefense](RebellionPlanetModuleWeaponDefense.md)
+  * [Quest](RebellionQuest.md)
+  * [ResearchSubject](RebellionResearchSubject.md)
+  * [SpaceMine](RebellionSpaceMine.md)
+  * [StarBaseUpgrade](RebellionStarBaseUpgrade.md)
+  * [Titan](RebellionTitan.md)
+
+**[Cost](RebellionCost.md)
+  * credits: [Decimal](Decimal.md)
+  * metal: [Decimal](Decimal.md)
+  * crystal: [Decimal](Decimal.md)**

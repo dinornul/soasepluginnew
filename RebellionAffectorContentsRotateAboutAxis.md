@@ -1,0 +1,20 @@
+## References
+  * [ParticleSimulation](RebellionParticleSimulation.md)
+
+**[AffectorContentsRotateAboutAxis](RebellionAffectorContentsRotateAboutAxis.md)
+  * Name: [Any](Any.md)
+  * Enabled: [Boolean](Boolean.md)
+  * StartTime: [Decimal](Decimal.md)
+  * HasInfiniteLifeTime: [Boolean](Boolean.md)
+  * TotalLifeTime: [Decimal](Decimal.md)
+  * UseYoungParticleAffectThreshold: [Boolean](Boolean.md)
+  * YoungParticleAffectThreshold: [Decimal](Decimal.md)
+  * UseOldParticleAffectThreshold: [Boolean](Boolean.md)
+  * OldParticleAffectThreshold: [Decimal](Decimal.md)
+  * AffectAttachedParticles: [Boolean](Boolean.md)
+  * numAttachedEmitters: [Iteration](Iteration.md)
+    * attachedEmitterName: [Any](Any.md)
+  * AngularVelocity: [Decimal](Decimal.md)
+  * Radius: [Decimal](Decimal.md)
+  * AxisOfRotation: [Orientation](Orientation.md)
+  * AxisOrigin: [Orientation](Orientation.md)**
