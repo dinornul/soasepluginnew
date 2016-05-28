@@ -1,0 +1,23 @@
+## References
+  * [GalaxyStarType](VanillaGalaxyStarType.md)
+
+**[GalaxyPlanetType](VanillaGalaxyPlanetType.md)
+  * designName: [Any](Any.md)
+  * inGameName: [Any](Any.md)
+  * type: [GalaxyDesign](GalaxyDesign.md)
+  * pos: [Position](Position.md)
+  * owner: [Any](Any.md)
+  * isHomePlanet: [Boolean](Boolean.md)
+  * normalStartUpgradeLevelForPopulation: [Integer](Integer.md)
+  * normalStartUpgradeLevelForCivilianModules: [Integer](Integer.md)
+  * normalStartUpgradeLevelForTacticalModules: [Integer](Integer.md)
+  * normalStartUpgradeLevelForArtifacts: [Integer](Integer.md)
+  * normalStartUpgradeLevelForInfrastructure: [Integer](Integer.md)
+  * quickStartUpgradeLevelForPopulation: [Integer](Integer.md)
+  * quickStartUpgradeLevelForCivilianModules: [Integer](Integer.md)
+  * quickStartUpgradeLevelForTacticalModules: [Integer](Integer.md)
+  * quickStartUpgradeLevelForArtifacts: [Integer](Integer.md)
+  * quickStartUpgradeLevelForInfrastructure: [Integer](Integer.md)
+  * [planetItems](VanillaTemplateType.md): [TemplateType](TemplateType.md)
+  * spawnProbability: [Decimal](Decimal.md)
+  * useDefaultTemplate: [Boolean](Boolean.md)**

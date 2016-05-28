@@ -1,0 +1,22 @@
+## References
+  * [CapitalShip](VanillaCapitalShip.md)
+  * [Fighter](VanillaFighter.md)
+  * [Frigate](VanillaFrigate.md)
+  * [PlanetModuleHangarDefense](VanillaPlanetModuleHangarDefense.md)
+  * [PlanetModuleRefinery](VanillaPlanetModuleRefinery.md)
+  * [PlanetModuleShipFactory](VanillaPlanetModuleShipFactory.md)
+  * [PlanetModuleStandard](VanillaPlanetModuleStandard.md)
+  * [PlanetModuleTradePort](VanillaPlanetModuleTradePort.md)
+  * [PlanetModuleWeaponDefense](VanillaPlanetModuleWeaponDefense.md)
+  * [SpaceMine](VanillaSpaceMine.md)
+  * [StarBase](VanillaStarBase.md)
+
+## Values
+  * [Pirate](VanillaPirate.md)
+  * [Module](VanillaModule.md)
+  * [CapitalShip](VanillaCapitalShip.md)
+  * [Heavy](VanillaHeavy.md)
+  * [Light](VanillaLight.md)
+  * [VeryLight](VanillaVeryLight.md)
+  * [Medium](VanillaMedium.md)
+  * [VeryHeavy](VanillaVeryHeavy.md)

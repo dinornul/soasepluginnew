@@ -1,0 +1,19 @@
+## References
+  * [MissionAttackPlanet](VanillaMissionAttackPlanet.md)
+  * [MissionBuildMines](VanillaMissionBuildMines.md)
+  * [MissionBuildStarBase](VanillaMissionBuildStarBase.md)
+  * [MissionCaptureResources](VanillaMissionCaptureResources.md)
+  * [MissionColonize](VanillaMissionColonize.md)
+  * [MissionExplore](VanillaMissionExplore.md)
+  * [MissionFosterRelationships](VanillaMissionFosterRelationships.md)
+  * [MissionRaid](VanillaMissionRaid.md)
+
+## Values
+  * [AttackPlanet](VanillaAttackPlanet.md)
+  * [BuildMines](VanillaBuildMines.md)
+  * [BuildStarBase](VanillaBuildStarBase.md)
+  * [CaptureResources](VanillaCaptureResources.md)
+  * [Colonize](VanillaColonize.md)
+  * [Explore](VanillaExplore.md)
+  * [FosterRelationships](VanillaFosterRelationships.md)
+  * [Raid](VanillaRaid.md)

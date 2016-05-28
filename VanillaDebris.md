@@ -1,0 +1,10 @@
+**[Debris](VanillaDebris.md)
+  * averageLifetime: [Decimal](Decimal.md)
+  * lifetimeVariancePerc: [Decimal](Decimal.md)
+  * minLinearSpeed: [Decimal](Decimal.md)
+  * maxLinearSpeed: [Decimal](Decimal.md)
+  * minAngularSpeed: [Decimal](Decimal.md)
+  * maxAngularSpeed: [Decimal](Decimal.md)
+  * dragRate: [Decimal](Decimal.md)
+  * minShadow: [Decimal](Decimal.md)
+  * maxShadow: [Decimal](Decimal.md)**
